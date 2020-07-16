@@ -1,2 +1,2 @@
 # scrapers
-Examples of web scrapers in Python
+Examples of web scrapers in Python.
